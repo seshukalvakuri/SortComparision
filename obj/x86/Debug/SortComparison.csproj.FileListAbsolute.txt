@@ -1,0 +1,5 @@
+C:\44663\sortcomparision\obj\x86\Debug\SortComparison.csprojAssemblyReference.cache
+C:\44663\sortcomparision\obj\x86\Debug\SortComparison.frmMain.resources
+C:\44663\sortcomparision\obj\x86\Debug\SortComparison.Properties.Resources.resources
+C:\44663\sortcomparision\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
+C:\44663\sortcomparision\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
